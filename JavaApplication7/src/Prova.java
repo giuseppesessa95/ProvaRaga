@@ -19,4 +19,9 @@ public class Prova
     {
         System.out.println("Arrivederci dal Team");
     }
+   
+    public void cisono()
+    {
+        System.out.println("eccomi");
+    }
 }
