@@ -26,4 +26,8 @@ public class Prova
         System.out.println("ecchgsdhgshgdhsdg hdgshdghsgdhsgd hsdhssghsgdhsh  d ghsgdhsgdhgsdh  omi");
     }
     
+    public void secondamodificagiuseppe()
+    {
+        System.out.println("questa è la mia seconda modifica");
+    }
 }
