@@ -23,6 +23,7 @@ public class Prova
     public void cisono()
     {
         System.out.println("eccomi");
+        System.out.println("ecchgsdhgshgdhsdg hdgshdghsgdhsgd hsdhssghsgdhsh  d ghsgdhsgdhgsdh  omi");
     }
-    System.out.println("ecchgsdhgshgdhsdg hdgshdghsgdhsgd hsdhssghsgdhsh  d ghsgdhsgdhgsdh  omi");
+    
 }
