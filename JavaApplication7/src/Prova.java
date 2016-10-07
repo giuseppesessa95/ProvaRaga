@@ -24,8 +24,5 @@ public class Prova
     {
         System.out.println("eccomi");
     }
-    hghgfghh hghjgfjk
-            h uigggù
-                     j gjgu igui 
-                             hkj hyolihlksdsdsdsd shdshdshdhsdh
+    System.out.println("ecchgsdhgshgdhsdg hdgshdghsgdhsgd hsdhssghsgdhsh  d ghsgdhsgdhgsdh  omi");
 }
