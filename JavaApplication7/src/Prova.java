@@ -18,5 +18,6 @@ public class Prova
     public void arrivederci()
     {
         System.out.println("Arrivederci dal Team");
+        System.out.println("Arrivederci dal Team");
     }
 }
