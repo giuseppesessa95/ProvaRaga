@@ -14,4 +14,14 @@ public class Prova
     {
         System.out.println("x");
     }
+    
+    public void arrivederci()
+    {
+        System.out.println("Arrivederci dal Team");
+    }
+   
+    public void cisono()
+    {
+        System.out.println("eccomi");
+    }
 }
