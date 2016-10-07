@@ -30,4 +30,9 @@ public class Prova
     {
         System.out.println("questa è la mia seconda modifica");
     }
+    
+    public void terzamodificagiuseppe()
+    {
+        System.out.println("questa è la mia seconda modifica");
+    }
 }
